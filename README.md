@@ -29,3 +29,5 @@ The statistical model employed here is based on extreme gradient boosting (http:
    * Statistical modeling and validation.  The training data is input into the XGBoost algorithm.  Hyperparameters are tuned using a 10-fold cross validation approach.
    * Results are output to a csv file.  During the exploratory analysis phase, the above steps were tested on an independent holdout set where the "true" result was known.  For the final result, all available training data is used for maximum statistical power.
 
+### Result
+This analysis gets a root-mean-square-log-error of 0.32 on the test data set provided on Kaggle.  For a more detailed evaluation of the model, see the jupyter notebook!
