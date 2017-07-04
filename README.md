@@ -2,7 +2,7 @@
 
 This is an analysis of real estate data hosted on [kaggle](https://www.kaggle.com/c/sberbank-russian-housing-market).  The goal is to predict real estate prices in Moscow, Russia during the period July 2015 to May 2016 using training data from 2011-2015.
 
-The core analysis and data cleaning are summarized in jupyter notebooks.
+The core analysis is summarized in this [jupyter notebook](analysis/Sberbank).
 
 ### Dataset features
 
